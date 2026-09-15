@@ -136,14 +136,6 @@ const SideNav = () => {
       </Box>
       
       <Box sx={{ p: 2, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-       <IconButton
-  component="a"
-  href="https://wa.me/440"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  <WhatsAppIcon sx={{ fontSize: 32 }} />
-</IconButton>
         <Typography variant="body2" sx={{ color: '#8b8b9e', textAlign: 'center' }}>
           &copy; 2025 Venkatesh Dasari.
         </Typography>

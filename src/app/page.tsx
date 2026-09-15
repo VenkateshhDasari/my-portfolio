@@ -1796,9 +1796,6 @@ const socialLinks = [
     icon: <LinkedInIcon />,
     href: "https://www.linkedin.com/in/venkatesh-dasarii/",
   },
-  { icon: <WhatsAppIcon />, href: "https://wa.me/44" },
-  { icon: <PhoneIcon />, href: "tel:440" },
-  { icon: <MailOutlineIcon />, href: "mailto:" },
 ];
 
 const ContactSection = () => {
